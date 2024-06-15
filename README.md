@@ -7,9 +7,11 @@
 </div>
 
 ###
+
 <div align="center">
 <img align="right" height="150" src="https://media.giphy.com/media/MaIHhAPGYYJZP4wBxh/giphy.gif"  />
 </div>
+
 ###
 
 <div align="left">
