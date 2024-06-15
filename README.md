@@ -25,7 +25,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SPCDIAZRIVERACHRISTIAN/SPCDIAZRIVERACHRISTIAN/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SPCDIAZRIVERACHRISTIAN/SPCDIAZRIVERACHRISTIAN/output/snake.svg" alt="Snake animation" />
 
 ###
 
