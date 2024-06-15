@@ -25,8 +25,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SPCDIAZRIVERACHRISTIAN/SPCDIAZRIVERACHRISTIAN/output/snake.svg" alt="Snake animation" />
-
 ###
 
 - 🌱 I’m currently learning **Fullstack web dev, Data visualization & Data analysis**
